@@ -14,7 +14,7 @@ IRAM team predict that over the next decade processors and memory will be merged
 A single gigabit IRAM should have an internal memory bandwidth of nearly 1000 gigabits per second (32K bits in 50 ns), a hundredfold increase over the fastest computers today. Hence the fastest programs will keep most memory accesses within a single IRAM, rewarding compact representations of code and data.
 
 
-##History
+## History
 
 The initial efforts of the IRAM project were undertaken during the Spring 1996 offerring of CS 294-4 at UC Berkeley. This advanced graduate course, led by Prof. David Patterson, re-examined the design of hardware and software that is based on the traditional separation of the memory and the processor. The course web page contains a considerable amount of useful information, including copies of slides from many guest speakers as well as the results from three sets of projects performed by more than a dozen graduate students.
 
