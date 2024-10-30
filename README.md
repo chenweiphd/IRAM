@@ -3,7 +3,8 @@ The new development of Berkeley IRAM project
 
 The Berkeley IRAM project was a research project (since 1996) in the Computer Science Division of the University of California, Berkeley which explored computer architecture enabled by the wide bandwidth between memory and processor made possible when both are designed on the same integrated circuit (chip). Since it was envisioned that such a chip would consist primarily of random-access memory (RAM), with a smaller part needed for the central processing unit (CPU), the research team used the term "Intelligent RAM" (or IRAM) to describe a chip with this architecture. Like the J–Machine project at MIT, the primary objective of the research was to avoid the Von Neumann bottleneck which occurs when the connection between memory and CPU is a relatively narrow memory bus between separate integrated circuits.
 
-![image](https://github.com/user-attachments/assets/3fd8abae-c0aa-4e35-8238-f7108a80d171)
+![image](https://github.com/user-attachments/assets/3fd8abae-c0aa-4e35-8238-f7108a80d171) ![image](https://github.com/user-attachments/assets/93ddbf2f-947d-4395-8298-3071e92796d2)
+
 
 
 
