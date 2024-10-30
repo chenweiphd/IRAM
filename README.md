@@ -11,7 +11,6 @@ The Berkeley IRAM project was a research project (since 1996) in the Computer Sc
 
 ## Project Overview
 
-Today microprocessors and memories are made on distinct manufacturing lines, yielding 10M transistor microprocessors and 256M transistor DRAMs. Plants to manufacture these chips cost billions of dollars.
 
 One of the biggest performance challenges in computer systems today is the speed mismatch between microprocessors and memory. To address this challenge processor designers now typically devote a large fraction of the transistors and area of the chips to large SRAM caches.
 
